@@ -1,0 +1,36 @@
+Welcome to SmartBot! (Type 'bye' to exit)
+
+You: hii
+Bot: Namaste!
+You: who are you
+Bot: I’m a Python-based chatbot built to chat, assist, and learn!
+You: who created you
+Bot: I was created by a Python developer. Maybe it was you? 😉
+You: how are you
+Bot: I'm just a program, but I'm doing great! How about you?
+You: i am fine
+Bot: That’s awesome to hear!
+You: thsnk you
+Bot: Hmm... I didn't understand that. Can you rephrase?
+You: what is teh time now
+Bot: Hmm... I didn't understand that. Can you rephrase?
+You: what is the time now
+Bot: The current time is 15:35:37.
+You: what is your name
+Bot: I’m SmartBot, your intelligent virtual buddy!
+You: hello
+Bot: Hey!
+You: heyyyy
+Bot: Hmm... I didn't understand that. Can you rephrase?
+You: how old are you
+Bot: Hmm... I didn't understand that. Can you rephrase?
+You: what about you
+Bot: Hmm... I didn't understand that. Can you rephrase?
+You: hello
+Bot: Hola!
+You: what can you do
+Bot: I can chat with you, answer simple questions, and keep you company. 😄
+You: thank you
+Bot: You're most welcome! 😊
+You: bye
+Bot: Bye! Have a nice day!
